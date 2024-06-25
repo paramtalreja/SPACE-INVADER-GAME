@@ -1,0 +1,1 @@
+Developed a Space Invaders game using HTML Canvas and JavaScript. Space Invaders is a classic arcade game commonly found in retro-themed arcades. This version includes a score display and features impressive graphics.
